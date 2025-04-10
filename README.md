@@ -1,6 +1,6 @@
 # HeidiSQL
 
-![HeidiSQL] (https://github.com/AndrewLee90/HeidiSQL/blob/main/heidiSQL_logo.jpg)
+![HeidiSQL](https://github.com/AndrewLee90/HeidiSQL/blob/main/heidiSQL_logo.jpg)
 
 
 HeidiSQL은 데이터베이스 관리 도구로, MySQL, MariaDB, PostgreSQL, Microsoft SQL Server 등 다양한 데이터베이스를 GUI(그래픽 사용자 인터페이스) 환경에서 관리할 수 있도록 도와줍니다. 주로 데이터베이스 관리자(DBA), 개발자, 웹 개발자들이 효율적으로 데이터베이스를 관리하고 쿼리를 실행할 때 사용합니다.
